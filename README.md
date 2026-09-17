@@ -765,8 +765,7 @@ how to fix it, please visit the webpage mentioned above.
 
 | № | Розділ роботи | Текст промпта |
 |---|---|---|
-| 1 |Частина А3 |чета я не понял дружбан, когда пишу в цмд dig nbuv.gov.ua вылетает "'dig' is not recognized as an internal or external command,
-operable program or batch file." |
+| 1 |Частина А3 |чета я не понял дружбан, когда пишу в цмд dig nbuv.gov.ua вылетает "'dig' is not recognized as an internal or external command, operable program or batch file." |
 | 2 | Частина B|что это вообще? |
 
 ### Дії з отриманим результатом
